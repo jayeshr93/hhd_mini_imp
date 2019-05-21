@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_snc_hhd.user_role" name="x_snc_hhd.user_role">0c60ab21502533007f440d7062cb6d12</contains>
+        <role display_value="x_snc_hhd.admin_role" name="x_snc_hhd.admin_role">dc376fa1502533007f440d7062cb6d69</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-21 13:02:49</sys_created_on>
+        <sys_id>9947afa1502533007f440d7062cb6d35</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_hhd.user_role.x_snc_hhd.admin_role</sys_name>
+        <sys_package display_value="HHD" source="x_snc_hhd">0300a721502533007f440d7062cb6d7b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HHD">0300a721502533007f440d7062cb6d7b</sys_scope>
+        <sys_update_name>sys_user_role_contains_9947afa1502533007f440d7062cb6d35</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-21 13:02:49</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
