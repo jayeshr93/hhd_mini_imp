@@ -16,5 +16,8 @@
         <element default="javascript: gs.getUserID();" label="Prototype Evangelist" max_length="40" name="u_prototype_evangelist" reference="sys_user" type="reference"/>
         <element label="System Name" max_length="40" name="u_system_name" type="string"/>
         <element label="Unlock Code" max_length="40" name="u_unlock_code" type="string"/>
+        <index name="index">
+            <element name="u_prototype_evangelist"/>
+        </index>
     </element>
 </database>
